@@ -166,6 +166,7 @@ footer { padding: 34px 0 28px; }
 }
 
 @media (min-width: 801px) and (max-width: 1100px) {
+  .nav-links { gap: 22px; }
   .hero-portrait img { right: 0; bottom: -28%; height: 150%; }
 }
 
